@@ -1,1 +1,0 @@
-about starting and scripting
